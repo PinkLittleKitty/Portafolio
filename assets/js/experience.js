@@ -12,8 +12,15 @@ const exp = [
     desp: "<li>Juego generado proceduralmente en el que controlas una navecita, y cuyo único propósito es el de hacer la mayor puntuación posible, y superarte cada vez más.</li> <li>Es un juego (Relativamente) funcional para android, cuyo propósito principal fué entretenerme en pandemia.</li>",
   },
   {
-    title: "Farmoxel",
-    cardImage: "assets/images/experience-page/KTA.png",
+    title: "Cerati Simulator",
+    cardImage: "assets/images/experience-page/Cerati.jpg",
+    place: "Juego Lanzado en Itch.io",
+    time: "(Mayo, 2022)",
+    desp: "<li>Juego con fines comédicos.</li> <li>Carece de gameplay, lo hice con el fin de reirme un rato, y al mostrárselo a una amiga, se hizo viral en TikTok.</li>",
+  },
+  {
+    title: "Proyecto Farmoxel",
+    cardImage: "assets/images/experience-page/Logo3.png",
     place: "Juego en desarrollo.",
     time: "(Mayo, 2022 - Actualidad)",
     desp: "<li>Juego con estética voxel de gestión de recursos.</li> <li>Aproximadamente 8 personas trabajando en él, siendo yo el desarrollador principal (Y único, al momento de escribir esto).</li>",
