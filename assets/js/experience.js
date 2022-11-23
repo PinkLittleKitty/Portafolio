@@ -11,6 +11,13 @@ const exp = [
     time: "(Septiembre, 2021)",
     desp: "<li>Juego generado proceduralmente en el que controlas una navecita, y cuyo único propósito es el de hacer la mayor puntuación posible, y superarte cada vez más.</li> <li>Es un juego (Relativamente) funcional para android, cuyo propósito principal fué entretenerme en pandemia.</li>",
   },
+  {
+    title: "Farmoxel",
+    cardImage: "assets/images/experience-page/KTA.png",
+    place: "Juego en desarrollo.",
+    time: "(Mayo, 2022 - Actualidad)",
+    desp: "<li>Juego con estética voxel de gestión de recursos.</li> <li>Aproximadamente 8 personas trabajando en él, siendo yo el desarrollador principal (Y único, al momento de escribir esto).</li>",
+  },
 ];
 
 const showCards2 = () => {
