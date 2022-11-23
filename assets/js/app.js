@@ -25,7 +25,6 @@ let header = $(`
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Página Principal</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experiencia</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Proyectos</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Investigaciones</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Educación</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://farteamdev.blogspot.com/" target="_blank">Farmoxel Blog</a></li>
