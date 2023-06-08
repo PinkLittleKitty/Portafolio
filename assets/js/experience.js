@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Logo3.png",
     place: "Juego en desarrollo.",
     time: "(Mayo, 2022 - Actualidad)",
-    desp: "<li>Juego con estética voxel de gestión de recursos.</li> <li>Aproximadamente 8 personas trabajando en él, siendo yo el programador jefe de tres.</li>",
+    desp: "<li>Juego con estética voxel de gestión de recursos.</li> <li>Aproximadamente 8 personas trabajando en él, entre ellos, tres programadores, siendo yo el programador en jefe.</li>",
   },
 ];
 
