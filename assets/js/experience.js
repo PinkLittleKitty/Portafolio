@@ -12,6 +12,13 @@ const exp = [
     desp: "<li>Juego generado proceduralmente en el que controlas una navecita, y cuyo único propósito es el de hacer la mayor puntuación posible, y superarte cada vez más.</li> <li>Es un juego (Relativamente) funcional para android, cuyo propósito principal fué entretenerme en pandemia.</li>",
   },
   {
+    title: "Room Makers",
+    cardImage: "assets/images/experience-page/RoomMakers.png",
+    place: "Juego Lanzado en Itch.io",
+    time: "(Septiembre, 2023)",
+    desp: "<li>Este juego fue publicado para la Game Boy Jam 11, y está siendo reworkeado para lanzarlo en móviles.</li>",
+  },
+  {
     title: "Cerati Simulator",
     cardImage: "assets/images/experience-page/Cerati.jpg",
     place: "Juego Lanzado en Itch.io",
